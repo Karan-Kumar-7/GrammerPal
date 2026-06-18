@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, SansSerif;
+    background: #f4f6f9;
+    padding: 20px;
+}
+
+textarea{
+    width: 100%;
+    height: 120px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+button{
+    margin-top: 15px;
+    padding: 12px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.container{
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+.result{
+    margin-top: 25px;
+    padding: 15px;
+    background: #f8f9fa;
+    border-radius: 10px;
+}
